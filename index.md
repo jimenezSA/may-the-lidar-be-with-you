@@ -42,4 +42,4 @@ If you have any feedback from any of the workshops, please fill out the form bel
 [Give Feedback](https://github.com/jimenezSA/may-the-lidar-be-with-you/discussions){: .btn .btn-purple }
 
 ## Additional Resources and Contacts
-Recordings, contacts, or additional resources can be found on the [Resources](https://jimenezsa.github.io/may-the-lidar-be-with-you/resources.html) page{: .btn .btn-purple }.
+Recordings, contacts, or additional resources can be found on the **Resources** tab.
