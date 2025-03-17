@@ -18,7 +18,7 @@ The lesson content for each Module can be found in the tabs on the lefthand side
 ## Questions
 If you have any questions about the material, please submit a question below! We are here to help.  
 
-[Ask a Question](https://forms.gle/a7MW4PtgtmPiPoZJ9){: .btn .btn-purple }
+[Ask a Question](https://github.com/jimenezSA/may-the-lidar-be-with-you/discussions){: .btn .btn-purple }
 
 ## Modules and Topics Overview
 This table is just an example. Actual 12-day overview will differ based on the country.
@@ -39,7 +39,7 @@ This table is just an example. Actual 12-day overview will differ based on the c
 ## Feedback
 If you have any feedback from any of the workshops, please fill out the form below. It helps us improve future workshops!
 
-[Give Feedback](https://forms.gle/8Jdm1aybL9sqzNEw6){: .btn .btn-purple }
+[Give Feedback](https://github.com/jimenezSA/may-the-lidar-be-with-you/discussions){: .btn .btn-purple }
 
 ## Additional Resources and Contacts
 Recordings, contacts, or additional resources can be found on the [Resources](linkhere) page{: .btn .btn-purple }.
