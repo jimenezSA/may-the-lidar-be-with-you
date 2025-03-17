@@ -2,7 +2,7 @@ title: COUNTRY NAME Training Template
 description: A website template for the SIG Caribbean trainings
 baseurl: "/may-the-lidar-be-with-you" # the subpath of your site, e.g. /blog
 url: "https://jimenezsa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/images/samz_usaid_nasa_ciat_sig.png"
+logo: "/images/nasa-logo-web.png"
 
 remote_theme: just-the-docs/just-the-docs
 
